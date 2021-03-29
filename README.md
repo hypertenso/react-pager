@@ -1,7 +1,7 @@
 
 # React Pager
 
-<img src="./docs/assets/react-pager.png" height="280">
+<img src="./docs/assets/react-pager.png">
 
 React-Pager é um exemplo de componente paginado de forma dinâmica, utilizando componentes funcionais. É possível encontrar uma demonstração [clicando aqui]().
 
